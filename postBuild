@@ -1,1 +1,1 @@
-wget -q -O gapminder.csv http://bit.ly/2uh4s3g
+wget -q -O Origin_and_Destination_Survey_DB1BMarket_2021_1.csv s3://bucket-for-interview-data/Origin_and_Destination_Survey_DB1BMarket_2021_1.csv
