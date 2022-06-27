@@ -1,1 +1,14 @@
-wget -q -O Origin_and_Destination_Survey_DB1BMarket_2021_1.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Origin_and_Destination_Survey_DB1BMarket_2021_1.csv
+wget -q -O 1.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/1.csv
+wget -q -O 2.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/2.csv
+wget -q -O 3.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/3.csv
+wget -q -O 4.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/4.csv
+wget -q -O 5.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/5.csv
+wget -q -O 6.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/6.csv
+wget -q -O 7.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/7.csv
+wget -q -O 8.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/8.csv
+wget -q -O 9.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/9.csv
+wget -q -O 10.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/10.csv
+wget -q -O 11.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/11.csv
+wget -q -O 12.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Monthly+Data/12.csv
+wget -q -O L_AIRPORT_ID.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Lookup+Tables/L_AIRPORT_ID.csv
+wget -q -O L_CARRIER_HISTORY.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Lookup+Tables/L_CARRIER_HISTORY.csv
