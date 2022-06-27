@@ -1,1 +1,1 @@
-wget -q -O Origin_and_Destination_Survey_DB1BMarket_2021_1.csv https://tinyurl.com/bdeu8bb
+wget -q -O Origin_and_Destination_Survey_DB1BMarket_2021_1.csv https://bucket-for-interview-data.s3.sa-east-1.amazonaws.com/Origin_and_Destination_Survey_DB1BMarket_2021_1.csv
